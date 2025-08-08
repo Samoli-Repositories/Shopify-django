@@ -1,1 +1,1 @@
-<h1 style="justify-content:center; display-flex:center;">Ecommerce</h1>
+<h1 style="justify-content: center; display: flex; text-align: center;">Ecommerce</h1>
